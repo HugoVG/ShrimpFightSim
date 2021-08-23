@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iSm+Uh5Sl7spm79ciR+TD707IdCrR0k+M49vmdyhJvVEGptrLYSUTGILCESJ2ZPNZap0Z3dMON4SY+6bBBGuTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\megah\\RiderProjects\\ShrimpFight\\ShrimpFight\\ShrimpFight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\megah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ShrimpFight.exe
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ShrimpFight.deps.json
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ShrimpFight.runtimeconfig.json
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ShrimpFight.runtimeconfig.dev.json
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ShrimpFight.dll
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ref\ShrimpFight.dll
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\bin\Debug\net5.0\ShrimpFight.pdb
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.csproj.AssemblyReference.cache
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.AssemblyInfoInputs.cache
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.AssemblyInfo.cs
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.csproj.CoreCompileInputs.cache
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.dll
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ref\ShrimpFight.dll
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.pdb
+C:\Users\megah\RiderProjects\ShrimpFight\ShrimpFight\obj\Debug\net5.0\ShrimpFight.genruntimeconfig.cache
