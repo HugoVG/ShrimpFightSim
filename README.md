@@ -1,5 +1,6 @@
 # ShrimpFightSim
-![image](https://media.discordapp.net/attachments/562815191616716800/879460608502800424/Shrimp_Fighters_Logo.png?width=1126&height=676)
+![image](https://media.discordapp.net/attachments/562815191616716800/879460608502800424/Shrimp_Fighters_Logo.png?width=500&height=250)
+
 This is a shrimpFight game from Jars Discord
 
 Version 1 Damage Calculations:
